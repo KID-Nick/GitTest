@@ -1,2 +1,2 @@
 删库跑路
-更新1
+console.log("hello world")
